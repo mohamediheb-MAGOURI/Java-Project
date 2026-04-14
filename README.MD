@@ -1,1 +1,0 @@
-"#Java and Oracle project"
