@@ -2,7 +2,7 @@
 
 ## 📚 Academic Project
 
-This is a **complete academic project** developed as part of a software engineering or database management course. It demonstrates practical application of Java programming, database design, and object-oriented principles in a real-world scenario.
+This is a **complete academic project** developed as part of my second year in integrated preparatory cycle at FST. It demonstrates practical application of Java programming, database design, and object-oriented principles in a real-world scenario.
 
 ## Description
 A complete Java application for managing a car rental agency. This system provides a comprehensive solution for handling vehicle inventory, customer management, and rental operations. Built with Java and Oracle Database using JDBC, it enables efficient tracking of rental transactions, customer information, and vehicle availability.
@@ -25,9 +25,8 @@ This academic project showcases core concepts including:
 - **Oracle Database Integration**: Reliable data persistence using JDBC for all operations
 
 ## Technologies Used
-- **Language**: Java 8+
-- **Database**: Oracle Database 11g or higher
+- **Language**: Java 24
+- **Database**: Oracle Database 11g
 - **Database Driver**: Oracle JDBC (ojdbc)
-- **Build Tool**: Maven 3.6+ (optional)
 - **Architecture**: MVC (Model-View-Controller) pattern
-- **GUI Framework**: Swing (if applicable) or Command Line Interface
+- **GUI Framework**: Java Forms
